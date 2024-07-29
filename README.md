@@ -4,8 +4,8 @@
 
 <div align="center"> 
     <a href="https://github.com/masibay"><img src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717&link=https%3A%2F%2Fgithub.com%2Fmasibay" alt="GitHub"></a>&ensp;
-    <a href="https://linkedin.com/in/masibay"><img src="https://img.shields.io/badge/linkedin-%234888B7?style=for-the-badge&logo=linkedin&logoColor=white&Color=%23181717&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmasibay%2F" alt="LinkedIn"></a>&ensp;
-    <a href="https://kaggle.com/bayutaufiqurrahman"><img src="https://img.shields.io/badge/kaggle-%230072EF?style=for-the-badge&Color=%23181717&link=https%3A%2F%2Fwww.kaggle.com%2Fbayutaufiqurrahman" alt="Kaggle"></a>
+    <a href="https://linkedin.com/in/masibay" target="_blank"><img src="https://img.shields.io/badge/linkedin-%234888B7?style=for-the-badge&logo=linkedin&logoColor=white&Color=%23181717&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmasibay%2F" alt="LinkedIn"></a>&ensp;
+    <a href="https://kaggle.com/bayutaufiqurrahman" target="_blank"><img src="https://img.shields.io/badge/kaggle-%230072EF?style=for-the-badge&Color=%23181717&link=https%3A%2F%2Fwww.kaggle.com%2Fbayutaufiqurrahman" alt="Kaggle"></a>
 </div>
 
 ```python
