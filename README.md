@@ -1,12 +1,11 @@
 <div align="center"> 
-    <h2>Hi, I'm <span style="color:#4888B7">Bayu Taufiqurrahman</span>&nbsp;<img src="https://c.tenor.com/CiObPlNJeDwAAAAi/langrisser.gif" style="width:40px"/> </h2>
+    <h1>Hi, I'm  <a href="https://github.com/masibay" rel="nofollow"><b><span color="#4888B7">Bayu Taufiqurrahman</span></b></a>&nbsp;<img src="https://appstickers-cdn.appadvice.com/1435314243/837714878/8bc7091097b7a96b2ad1a11f3f42369e-7.png" width="65px"/> </h1>
 </div>
 
----
-
-<div style="text-align:center;"> 
-    <img src="https://img.shields.io/badge/github-masibay-%235D275D?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717" alt="GitHub">&nbsp;
-    <img src="https://img.shields.io/badge/linkedin-Bayu%20Taufiq-%234888B7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%23181717" alt="LinkedIn">
+<div align="center"> 
+    <img src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717&link=https%3A%2F%2Fgithub.com%2Fmasibay" alt="GitHub">&ensp;
+    <img src="https://img.shields.io/badge/linkedin-%234888B7?style=for-the-badge&logo=linkedin&logoColor=white&Color=%23181717&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmasibay%2F" alt="LinkedIn">&ensp;
+    <img src="https://img.shields.io/badge/kaggle-%230072EF?style=for-the-badge&Color=%23181717&link=https%3A%2F%2Fwww.kaggle.com%2Fbayutaufiqurrahman" alt="Kaggle">
 </div>
 
 ```python
@@ -43,3 +42,7 @@ about_me = about()
 
 print(json.dumps(about_me, indent=4))
 ```
+<hr/>
+<div align="center">
+    <img src="https://appstickers-cdn.appadvice.com/1435314243/837714878/5b7beb9a34d63eb058c134419451c655-5.png" width="85px">
+</div>
